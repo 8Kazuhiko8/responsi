@@ -1,6 +1,6 @@
 # responsi
 
-Responsi Praktikum Pemrograman Mobile - M Salman Mahdi - 124220014 (username = salman, password = salman123)
+124220014  - M Salman Mahdi - SI-C
 
 ## Getting Started
 
