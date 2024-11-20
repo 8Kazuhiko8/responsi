@@ -1,6 +1,6 @@
 # responsi
 
-124220014  - M Salman Mahdi - SI-C
+124220014  - Muhammad Salman Mahdi - SI-C
 
 ## Getting Started
 
